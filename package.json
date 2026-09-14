@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-azure-storagecache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Storage Cache offers scalable NAS caching from NFSv3 or Blob storage targets.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-azure-storagecache",
